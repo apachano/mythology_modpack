@@ -1,0 +1,12 @@
+# This list served to keep track of installed versions of mods
+# as well as the source of the mod. It also keeps track of if
+# the mod has been modified from the source for this game.
+
+
+#Mod Name			Version    Source
+3D_armor			- 
+crafting
+demigod
+facade
+lightning
+utils
