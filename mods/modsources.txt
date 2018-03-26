@@ -4,7 +4,7 @@
 
 
 #Mod Name			Version    Source
-3D_armor			- 
+3D_armor			- 0.4.11   - https://github.com/stujones11/minetest-3d_armor
 crafting
 demigod
 facade
